@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hongjae James Kang!
-- 👀 I'm interested in getting to know someone and learning something.
-- 🌱 I’m currently learning kotlin, java, python and English.
+- 👋 Hi, I’m Hongjae James Kang @Riiid!!
+- 👀 I'm interested in getting to know someone and learning something. Previously, I learned java and python, and I'm still learning it now.
+- 🌱 I’m currently learning kotlin and English. 
 - 💞️ I’m looking to collaborate on automation!
 - 📫 How to reach me is LinkedIn. (https://www.linkedin.com/in/babblingjames/)
 
