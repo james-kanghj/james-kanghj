@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hongjae James Kang @Riiid!!
+- 👋 Hi, I’m Hongjae James Kang @Asleep!!
 - 👀 I'm interested in getting to know someone and learning something. Previously, I learned java and python, and I'm still learning it now.
 - 🌱 I’m currently learning kotlin and English. 
 - 💞️ I’m looking to collaborate on automation!
