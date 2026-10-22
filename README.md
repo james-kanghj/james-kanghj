@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hongjae (James) Kang.
+👋 Hi, I’m Hongjae (James) Kang.
 - 🧪 I’m a QA Engineer at **AvoMD Korea (Avo)**, with 14+ years of experience in software quality, release risk, and product validation.
 - 🤖 I build practical tools with AI and automation to simplify repetitive work and improve everyday workflows.
 - 🛠️ My projects include AI-powered Jira issue analysis and UI test automation using Python and Playwright.
